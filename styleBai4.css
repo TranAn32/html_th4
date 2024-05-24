@@ -7,7 +7,6 @@
     width: 1300px;
     height: 100%;
     margin: 0 auto;
-    border: 1px solid red;
 }
 body{
     font-family: Arial, sans-serif;
@@ -72,12 +71,14 @@ a{
     padding: 20px;
     padding-left: 0;
     flex-basis: 45%;
+    padding-top: 0;
     
 }
 .box2_news_left{
     padding: 20px;
     padding-left: 0;
     flex-basis: 55%;
+    padding-top: 0;
     
 }
 .news{
@@ -96,6 +97,7 @@ a{
     height: 400px;
     background-color: rgba(196, 200, 202,0.5);
     border-top: 5px solid rgb(5, 101, 145) ;
+    
 }
 .title_box1_right{
     text-transform: uppercase;
